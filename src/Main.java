@@ -13,7 +13,7 @@ public class Main {
             System.out.println("Итоговая сумма на счету: " + totalTotal + " рублей");
         } else {
             System.out.println("Вам начисленно 0 бонусных рублей");
-            System.out.println("Итоговая сумма на счету: " + (initialAccount + deposit) + " рублей");// Объявляете переменные для входных данных и
+            System.out.println("Итоговая сумма на счету: " + (initialAccount + deposit) + " рублей");
 
         }
 
